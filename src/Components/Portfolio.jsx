@@ -35,17 +35,17 @@ const projectList = [
     description: " A simple battle simulator for Pokémon games.",
     url: "https://github.com/vitorwlm/PokeBattleSimulator",
   },
-   {
+  {
     title: "dam_1_f03.2",
     description: "A simple web application for a school project.",
     url: "https://github.com/vitorwlm/dam_1_f03.2",
   },
-   {
+  {
     title: "",
     description: "",
     url: "",
   },
-   {
+  {
     title: "",
     description: " ",
     url: "",
