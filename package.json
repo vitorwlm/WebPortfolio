@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{vitorwlm}.github.io/{WebPortfolio}",
+  "homepage": "http://vitorwlm.github.io/WebPortfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{vitorwlm}.github.io/{WebPortfolio}'",
+    "build-gh": "parcel build --public-url 'https://vitorwlm.github.io/WebPortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
